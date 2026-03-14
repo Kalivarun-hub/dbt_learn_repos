@@ -1,0 +1,1 @@
+select 'myname' as nameeee;
